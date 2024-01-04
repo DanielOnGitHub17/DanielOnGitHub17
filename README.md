@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielOnGitHub17
 - 👀 I’m interested in Artificial Intelligence, Data Science, Website Development, and Science.
-- 🌱 I’m currently learning Back-end development in Python.
+- 🌱 I’m currently learning Back-end development.
 - 💞️ I’m looking to collaborate on any software project.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-enesi-0319a227a/)
 
