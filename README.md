@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielOnGitHub17
-- 👀 I’m interested in Software Engineering, Artificial Intelligence, Data Science, Website Development, and Mathematics.
-- 🌱 I’m currently learning node.js and related tech stacks.
-- 💞️ I’m looking forward to an internship offer for summer 2025.
+- 👀 I’m interested in Software Engineering, Artificial Intelligence, Data Science, Website Development, and Mathematics
+- 🌱 I’m currently learning node.js and related tech stacks
+- 💞️ I’m looking forward to completing impactful projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/enesidaniel/)
 
 <!---
