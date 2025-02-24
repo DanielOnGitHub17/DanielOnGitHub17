@@ -1,4 +1,4 @@
-# Hallo! I'm Daniel 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cursive+Code&pause=100&lines=Hallo!+I'm+Daniel+👋)](https://danielongithub17.github.io)
 
 I am an enthusiastic learner with strong mathematical aptitude and proficiency in computer programming, seeking opportunities to develop skills, build network, and apply talent to substantial projects.
 
